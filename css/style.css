@@ -15,3 +15,55 @@ body{
     position:absolute;
     top: 300px;
 }
+/* Team Logos spacing for different screen sizes */
+@media screen and (min-width: 1200px)
+{
+    .clubs .llul .logoli
+    {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (min-width: 1210px)
+{
+    .clubs .llul .logoli
+    {
+        margin-left: 0.45px;
+    }
+}
+
+@media screen and (min-width: 1220px)
+{
+    .clubs .llul .logoli
+    {
+        margin-left: 0.9px;
+    }
+}
+
+@media screen and (min-width: 1230px)
+{
+    .clubs .llul .logoli
+    {
+        margin-left: 1.3px;
+    }
+}
+
+@media screen and (min-width: 1250px)
+{
+    .clubs .llul .logoli
+    {
+        margin-left: 2.1px;
+    }
+}
+.
+.           
+./* Rest of code between 1250px and 1630px */ 
+.
+.
+@media screen and (min-width: 1630px)
+{
+    .clubs .llul .logoli
+    {
+        margin-left: 17.3px;
+    }
+}
